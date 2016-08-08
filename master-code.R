@@ -11,10 +11,10 @@ library(wordcloud) # For word cloud
 
 # Declare Twitter API Credentials
 ####################################
-api_key <- "FaebkHZ1EMYkvMyEnYsXLcRmX" 
-api_secret <- "uiRaHrtrIlA8jJR2VXLv1KiPTmx06evdHn2a1fa0injm0WpD0T" 
-token <- "712674756386893824-Lsfur00QL4paZEJ3QbnJTES17CorLj5" 
-token_secret <- "kCJflbhJCUxw8svxQmhvB2mGfsLC70vxPTif4eCltNQN3" 
+api_key <- *** 
+api_secret <- *** 
+token <- *** 
+token_secret <- *** 
 
 # Create Twitter Connection
 ##############################
